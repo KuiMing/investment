@@ -1,2 +1,4 @@
-https://kuiming.github.io/investment/future_long.html
-https://kuiming.github.io/investment/future_short.html
+
+## Link
+- https://kuiming.github.io/investment/future_long.html
+- https://kuiming.github.io/investment/future_short.html
